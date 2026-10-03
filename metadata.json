@@ -1,0 +1,6 @@
+{
+  "name": "CH-2 LunarMatch - ISRO Multi-Modal Image Correspondence System",
+  "description": "Real-time AI-powered multi-modal, sun angle, and scale invariant lunar image registration and correspondence system for Chandrayaan-2 (OHRC, TMC-2, IIRS) and LRO NAC with APJ scientific assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
